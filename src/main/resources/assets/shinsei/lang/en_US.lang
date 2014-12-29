@@ -1,0 +1,660 @@
+# Keys
+keys.shinsei.category=Shinsei
+keys.shinsei.charge=Charge
+keys.shinsei.release=Release
+
+# Creative Tabs
+itemGroup.shinsei:blockTab=Shinsei Blocks
+itemGroup.shinsei:decoTab=Shinsei Decorative
+itemGroup.shinsei:oreTab=Shinsei Ores
+itemGroup.shinsei:itemTab=Shinsei Items
+itemGroup.shinsei:powderTab=Shinsei Powders
+itemGroup.shinsei:foodTab=Shinsei Foods
+itemGroup.shinsei:fluidTab=Shinsei Fluids
+itemGroup.shinsei:machineTab=Shinsei Machines
+itemGroup.shinsei:toolTab=Shinsei Tools
+itemGroup.shinsei:plantTab=Shinsei Plants
+
+# Ores
+tile.shinsei:acanthiteOre.name=Acanthite Ore
+tile.shinsei:amethystOre.name=Amethyst Ore
+tile.shinsei:apatiteOre.name=Apatite Ore
+tile.shinsei:bariteOre.name=Barite Ore
+tile.shinsei:bauxiteOre.name=Bauxite Ore
+tile.shinsei:berylOre.name=Beryl Ore
+tile.shinsei:bismuthOre.name=Bismuth Ore
+tile.shinsei:boraxOre.name=Borax Ore
+tile.shinsei:borniteOre.name=Bornite Ore
+tile.shinsei:cassiteriteOre.name=Cassiterite Ore
+tile.shinsei:chalcedonyOre.name=Chalcedony Ore
+tile.shinsei:chalcopyriteOre.name=Chalcopyrite Ore
+tile.shinsei:chromiteOre.name=Chromite Ore
+tile.shinsei:cinnabarOre.name=Cinnabar Ore
+tile.shinsei:cobaltiteOre.name=Cobaltite Ore
+tile.shinsei:corundumOre.name=Corundum Ore
+tile.shinsei:cryoliteOre.name=Cryolite Ore
+tile.shinsei:dolomiteOre.name=Dolomite Ore
+tile.shinsei:fluoriteOre.name=Fluorite Ore
+tile.shinsei:galenaOre.name=Galena Ore
+tile.shinsei:graphiteOre.name=Graphite Ore
+tile.shinsei:hematiteOre.name=Hematite Ore
+tile.shinsei:ilmeniteOre.name=Ilmenite Ore
+tile.shinsei:jadeiteOre.name=Jadeite Ore
+tile.shinsei:meteoriteOre.name=Meteorite Ore
+tile.shinsei:molybdeniteOre.name=Molybdenite Ore
+tile.shinsei:olivineOre.name=Olivine Ore
+tile.shinsei:opalOre.name=Opal Ore
+tile.shinsei:pentlanditeOre.name=Pentlandite Ore
+tile.shinsei:platinumOre.name=Platinum Ore
+tile.shinsei:pyrolusiteOre.name=Pyrolusite Ore
+tile.shinsei:realgarOre.name=Realgar Ore
+tile.shinsei:rutileOre.name=Rutile Ore
+tile.shinsei:scheeliteOre.name=Scheelite Ore
+tile.shinsei:sperryliteOre.name=Sperrylite Ore
+tile.shinsei:sphaleriteOre.name=Sphalerite Ore
+tile.shinsei:stibniteOre.name=Stibnite Ore
+tile.shinsei:sulphurOre.name=Sulphur Ore
+tile.shinsei:sylviteOre.name=Sylvite Ore
+tile.shinsei:tantaliteOre.name=Tantalite Ore
+tile.shinsei:topazOre.name=Topaz Ore
+tile.shinsei:turquoiseOre.name=Turquoise Ore
+tile.shinsei:uraniniteOre.name=Uraninite Ore
+
+# Blocks
+tile.shinsei:amethystBlock.name=Amethyst Block
+tile.shinsei:apatiteBlock.name=Apatite Block
+tile.shinsei:aluminumBlock.name=Aluminum Block
+tile.shinsei:antimonyBlock.name=Antimony Block
+tile.shinsei:aquamarineBlock.name=Aquamarine Block
+tile.shinsei:bariumBlock.name=Barium Block
+tile.shinsei:bismuthBlock.name=Bismuth Block
+tile.shinsei:boraxBlock.name=Borax Block
+tile.shinsei:brassBlock.name=Brass Block
+tile.shinsei:bronzeBlock.name=Bronze Block
+tile.shinsei:cadmiumBlock.name=Cadmium Block
+tile.shinsei:chromiumBlock.name=Chromium Block
+tile.shinsei:cobaltBlock.name=Cobalt Block
+tile.shinsei:copperBlock.name=Copper Block
+tile.shinsei:fluoriteBlock.name=Fluorite Block
+tile.shinsei:indiumBlock.name=Indium Block
+tile.shinsei:iridiumBlock.name=Iridium Block
+tile.shinsei:jadeBlock.name=Jade Block
+tile.shinsei:leadBlock.name=Lead Block
+tile.shinsei:magnesiumBlock.name=Magnesium Block
+tile.shinsei:manganeseBlock.name=Manganese Block
+tile.shinsei:molybdenumBlock.name=Molybdenum Block
+tile.shinsei:nickelBlock.name=Nickel Block
+tile.shinsei:onyxBlock.name=Onyx Block
+tile.shinsei:opalBlock.name=Opal Block
+tile.shinsei:peridotBlock.name=Peridot Block
+tile.shinsei:platinumBlock.name=Platinum Block
+tile.shinsei:rubyBlock.name=Ruby Block
+tile.shinsei:sapphireBlock.name=Sapphire Block
+tile.shinsei:scarletEmeraldBlock.name=Scarlet Emerald Block
+tile.shinsei:silverBlock.name=Silver Block
+tile.shinsei:stainlessSteelBlock.name=Stainless Steel Block
+tile.shinsei:steelBlock.name=Steel Block
+tile.shinsei:tantalumBlock.name=Tantalum Block
+tile.shinsei:tinBlock.name=Tin Block
+tile.shinsei:titaniumBlock.name=Titanium Block
+tile.shinsei:topazBlock.name=Topaz Block
+tile.shinsei:tungstenBlock.name=Tungsten Block
+tile.shinsei:turquoiseBlock.name=Turquoise Block
+tile.shinsei:vanadiumBlock.name=Vanadium Block
+tile.shinsei:zincBlock.name=Zinc Block
+
+# Mineral Blocks
+tile.shinsei:basaltBlock.name=Basalt
+tile.shinsei:basaltCobble.name=Basalt Cobblestone
+tile.shinsei:boraxBlock.name=Borax Block
+tile.shinsei:chalkBlock.name=Chalk
+tile.shinsei:gypsumBlock.name=Gypsum
+tile.shinsei:haliteBlock.name=Halite
+tile.shinsei:limestoneBlock.name=Limestone
+tile.shinsei:siltstoneBlock.name=Siltstone
+
+# Machines
+tile.shinsei:anbiru.name=Anbiru
+tile.shinsei:fanesu.name=Fanesu
+tile.shinsei:fanesu.name=Fanesu
+
+# Deco Blocks
+tile.shinsei:amethystLampOn.name=Amethyst Lamp
+tile.shinsei:amethystLampOff.name=Amethyst Lamp
+tile.shinsei:apatiteLampOn.name=Apatite Lamp
+tile.shinsei:apatiteLampOff.name=Apatite Lamp
+tile.shinsei:aquamarineLampOn.name=Aquamarine Lamp
+tile.shinsei:aquamarineLampOff.name=Aquamarine Lamp
+tile.shinsei:diamondLampOn.name=Diamond Lamp
+tile.shinsei:diamondLampOff.name=Diamond Lamp
+tile.shinsei:emeraldLampOn.name=Emerald Lamp
+tile.shinsei:emeraldLampOff.name=Emerald Lamp
+tile.shinsei:fluoriteLampOn.name=Fluorite Lamp
+tile.shinsei:fluoriteLampOff.name=Fluorite Lamp
+tile.shinsei:jadeLampOn.name=Jade Lamp
+tile.shinsei:jadeLampOff.name=Jade Lamp
+tile.shinsei:onyxLampOn.name=Onyx Lamp
+tile.shinsei:onyxLampOff.name=Onyx Lamp
+tile.shinsei:opalLampOn.name=Opal Lamp
+tile.shinsei:opalLampOff.name=Opal Lamp
+tile.shinsei:peridotLampOn.name=Peridot Lamp
+tile.shinsei:peridotLampOff.name=Peridot Lamp
+tile.shinsei:rubyLampOn.name=Ruby Lamp
+tile.shinsei:rubyLampOff.name=Ruby Lamp
+tile.shinsei:sapphireLampOn.name=Sapphire Lamp
+tile.shinsei:sapphireLampOff.name=Sapphire Lamp
+tile.shinsei:scarletEmeraldLampOn.name=Scarlet Emerald Lamp
+tile.shinsei:scarletEmeraldLampOff.name=Scarlet Emerald Lamp
+tile.shinsei:topazLampOn.name=Topaz Lamp
+tile.shinsei:topazLampOff.name=Topaz Lamp
+tile.shinsei:turquoiseLampOn.name=Turquoise Lamp
+tile.shinsei:turquoiseLampOff.name=Turquoise Lamp
+
+tile.shinsei:amethystStone.name=Amethyst Stone (Infused)
+tile.shinsei:apatiteStone.name=Apatite Stone (Infused)
+tile.shinsei:aquamarineStone.name=Aquamarine Stone (Infused)
+tile.shinsei:diamondStone.name=Diamond Stone (Infused)
+tile.shinsei:emeraldStone.name=Emerald Stone (Infused)
+tile.shinsei:fluoriteStone.name=Fluorite Stone (Infused)
+tile.shinsei:jadeStone.name=Jade Stone (Infused)
+tile.shinsei:onyxStone.name=Onyx Stone (Infused)
+tile.shinsei:opalStone.name=Opal Stone (Infused)
+tile.shinsei:peridotStone.name=Peridot Stone (Infused)
+tile.shinsei:rubyStone.name=Ruby Stone (Infused)
+tile.shinsei:sapphireStone.name=Sapphire Stone (Infused)
+tile.shinsei:scarletEmeraldStone.name=Scarlet Emerald Stone (Infused)
+tile.shinsei:topazStone.name=Topaz Stone (Infused)
+tile.shinsei:turquoiseStone.name=Turquoise Stone (Infused)
+
+tile.shinsei:stuccoBlock.name=Stucco
+
+tile.shinsei:brickGray.name=Gray Brick
+tile.shinsei:brickTan.name=Tan Brick
+tile.shinsei:brickVariegated.name=Variegated Brick
+
+tile.shinsei:graphiteBricks.name=Graphite Bricks
+
+tile.shinsei:sidingWhite.name=White Siding
+tile.shinsei:sidingBlack.name=Black Siding
+tile.shinsei:sidingBlue.name=Blue Siding
+tile.shinsei:sidingBrown.name=Brown Siding
+tile.shinsei:sidingCyan.name=Cyan Siding
+tile.shinsei:sidingGray.name=Gray Siding
+tile.shinsei:sidingGreen.name=Green Siding
+tile.shinsei:sidingLtBlue.name=Light Blue Siding
+tile.shinsei:sidingLime.name=Lime Siding
+tile.shinsei:sidingMagenta.name=Magenta Siding
+tile.shinsei:sidingOrange.name=Orange Siding
+tile.shinsei:sidingPink.name=Pink Siding
+tile.shinsei:sidingPurple.name=Purple Siding
+tile.shinsei:sidingRed.name=Red Siding
+tile.shinsei:sidingSilver.name=Silver Siding
+tile.shinsei:sidingYellow.name=Yellow Siding
+
+tile.shinsei:marbleWhite.name=White Marble
+tile.shinsei:marbleBlack.name=Black Marble
+tile.shinsei:marbleBlue.name=Blue Marble
+tile.shinsei:marbleBrown.name=Brown Marble
+tile.shinsei:marbleCyan.name=Cyan Marble
+tile.shinsei:marbleGray.name=Gray Marble
+tile.shinsei:marbleGreen.name=Green Marble
+tile.shinsei:marbleLtBlue.name=Light Blue Marble
+tile.shinsei:marbleLime.name=Lime Marble
+tile.shinsei:marbleMagenta.name=Magenta Marble
+tile.shinsei:marbleOrange.name=Orange Marble
+tile.shinsei:marblePink.name=Pink Marble
+tile.shinsei:marblePurple.name=Purple Marble
+tile.shinsei:marbleRed.name=Red Marble
+tile.shinsei:marbleSilver.name=Silver Marble
+tile.shinsei:marbleYellow.name=Yellow Marble
+
+tile.shinsei:graniteWhite.name=White Granite
+tile.shinsei:graniteBlack.name=Black Granite
+tile.shinsei:graniteBlue.name=Blue Granite
+tile.shinsei:graniteBrown.name=Brown Granite
+tile.shinsei:graniteCyan.name=Cyan Granite
+tile.shinsei:graniteGray.name=Gray Granite
+tile.shinsei:graniteGreen.name=Green Granite
+tile.shinsei:graniteLtBlue.name=Light Blue Granite
+tile.shinsei:graniteLime.name=Lime Granite
+tile.shinsei:graniteMagenta.name=Magenta Granite
+tile.shinsei:graniteOrange.name=Orange Granite
+tile.shinsei:granitePink.name=Pink Granite
+tile.shinsei:granitePurple.name=Purple Granite
+tile.shinsei:graniteRed.name=Red Granite
+tile.shinsei:graniteSilver.name=Silver Granite
+tile.shinsei:graniteYellow.name=Yellow Granite
+
+tile.shinsei:marbleTileWhite.name=White Marble Tile
+tile.shinsei:marbleTileBlack.name=Black Marble Tile
+tile.shinsei:marbleTileBlue.name=Blue Marble Tile
+tile.shinsei:marbleTileBrown.name=Brown Marble Tile
+tile.shinsei:marbleTileCyan.name=Cyan Marble Tile
+tile.shinsei:marbleTileGray.name=Gray Marble Tile
+tile.shinsei:marbleTileGreen.name=Green Marble Tile
+tile.shinsei:marbleTileLtBlue.name=Light Blue Marble Tile
+tile.shinsei:marbleTileLime.name=Lime Marble Tile
+tile.shinsei:marbleTileMagenta.name=Magenta Marble Tile
+tile.shinsei:marbleTileOrange.name=Orange Marble Tile
+tile.shinsei:marbleTilePink.name=Pink Marble Tile
+tile.shinsei:marbleTilePurple.name=Purple Marble Tile
+tile.shinsei:marbleTileRed.name=Red Marble Tile
+tile.shinsei:marbleTileSilver.name=Silver Marble Tile
+tile.shinsei:marbleTileYellow.name=Yellow Marble Tile
+
+tile.shinsei:graniteTileWhite.name=White Granite Tile
+tile.shinsei:graniteTileBlack.name=Black Granite Tile
+tile.shinsei:graniteTileBlue.name=Blue Granite Tile
+tile.shinsei:graniteTileBrown.name=Brown Granite Tile
+tile.shinsei:graniteTileCyan.name=Cyan Granite Tile
+tile.shinsei:graniteTileGray.name=Gray Granite Tile
+tile.shinsei:graniteTileGreen.name=Green Granite Tile
+tile.shinsei:graniteTileLtBlue.name=Light Blue Granite Tile
+tile.shinsei:graniteTileLime.name=Lime Granite Tile
+tile.shinsei:graniteTileMagenta.name=Magenta Granite Tile
+tile.shinsei:graniteTileOrange.name=Orange Granite Tile
+tile.shinsei:graniteTilePink.name=Pink Granite Tile
+tile.shinsei:graniteTilePurple.name=Purple Granite Tile
+tile.shinsei:graniteTileRed.name=Red Granite Tile
+tile.shinsei:graniteTileSilver.name=Silver Granite Tile
+tile.shinsei:graniteTileYellow.name=Yellow Granite Tile
+
+tile.shinsei:amethystTile.name=Amethyst Tile
+tile.shinsei:apatiteTile.name=Apatite Tile
+tile.shinsei:aquamarineTile.name=Aquamarine Tile
+tile.shinsei:fluoriteTile.name=Fluorite Tile
+tile.shinsei:jadeTile.name=Jade Tile
+tile.shinsei:onyxTile.name=Onyx Tile
+tile.shinsei:opalTile.name=Opal Tile
+tile.shinsei:peridotTile.name=Peridot Tile
+tile.shinsei:rubyTile.name=Ruby Tile
+tile.shinsei:sapphireTile.name=Sapphire Tile
+tile.shinsei:scarletEmeraldTile.name=Scarlet Emerald Tile
+tile.shinsei:topazTile.name=Topaz Tile
+tile.shinsei:turquoiseTile.name=Turquoise Tile
+
+tile.shinsei:aluminumPlate.name=Aluminum Plate
+tile.shinsei:antimonyPlate.name=Antimony Plate
+tile.shinsei:bariumPlate.name=Barium Plate
+tile.shinsei:bismuthPlate.name=Bismuth Plate
+tile.shinsei:brassPlate.name=Brass Plate
+tile.shinsei:bronzePlate.name=Bronze Plate
+tile.shinsei:cadmiumPlate.name=Cadmium Plate
+tile.shinsei:chromiumPlate.name=Chromium Plate
+tile.shinsei:cobaltPlate.name=Cobalt Plate
+tile.shinsei:copperPlate.name=Copper Plate
+tile.shinsei:goldPlate.name=Gold Plate
+tile.shinsei:ironPlate.name=Iron Plate
+tile.shinsei:indiumPlate.name=Indium Plate
+tile.shinsei:iridiumPlate.name=Iridium Plate
+tile.shinsei:leadPlate.name=Lead Plate
+tile.shinsei:manganesePlate.name=Manganese Plate
+tile.shinsei:magnesiumPlate.name=Magnesium Plate
+tile.shinsei:molybdenumPlate.name=Molybdenum Plate
+tile.shinsei:nickelPlate.name=Nickel Plate
+tile.shinsei:pigIronPlate.name=Pig Iron Plate
+tile.shinsei:pewterPlate.name=Pewter Plate
+tile.shinsei:platinumPlate.name=Platinum Plate
+tile.shinsei:silverPlate.name=Silver Plate
+tile.shinsei:stainlessSteelPlate.name=Stainless Steel Plate
+tile.shinsei:steelPlate.name=Steel Plate
+tile.shinsei:tantalumPlate.name=Tantalum Plate
+tile.shinsei:tinPlate.name=Tin Plate
+tile.shinsei:titaniumPlate.name=Titanium Plate
+tile.shinsei:tungstenPlate.name=Tungsten Plate
+tile.shinsei:vanadiumPlate.name=Vanadium Plate
+tile.shinsei:zincPlate.name=Zinc Plate
+
+tile.shinsei:woodCrateCache.name=Cache Crate
+
+# Ingots
+item.shinsei:aluminumIngot.name=Aluminum Ingot
+item.shinsei:antimonyIngot.name=Antimony Ingot
+item.shinsei:bariumIngot.name=Barium Ingot
+item.shinsei:bismuthIngot.name=Bismuth Ingot
+item.shinsei:brassIngot.name=Brass Ingot
+item.shinsei:bronzeIngot.name=Bronze Ingot
+item.shinsei:cadmiumIngot.name=Cadmium Ingot
+item.shinsei:chromiumIngot.name=Chromium Ingot
+item.shinsei:cobaltIngot.name=Cobalt Ingot
+item.shinsei:copperIngot.name=Copper Ingot
+item.shinsei:graphiteBrick.name=Graphite Brick
+item.shinsei:indiumIngot.name=Indium Ingot
+item.shinsei:iridiumIngot.name=Iridium Ingot
+item.shinsei:leadIngot.name=Lead Ingot
+item.shinsei:manganeseIngot.name=Manganese Ingot
+item.shinsei:magnesiumIngot.name=Magnesium Ingot
+item.shinsei:molybdenumIngot.name=Molybdenum Ingot
+item.shinsei:nickelIngot.name=Nickel Ingot
+item.shinsei:pigIronIngot.name=Pig Iron Ingot
+item.shinsei:platinumIngot.name=Platinum Ingot
+item.shinsei:silverIngot.name=Silver Ingot
+item.shinsei:stainlessSteelIngot.name=Stainless Steel Ingot
+item.shinsei:steelIngot.name=Steel Ingot
+item.shinsei:tantalumIngot.name=Tantalum Ingot
+item.shinsei:tinIngot.name=Tin Ingot
+item.shinsei:titaniumIngot.name=Titanium Ingot
+item.shinsei:tungstenIngot.name=Tungsten Ingot
+item.shinsei:vanadiumIngot.name=Vanadium Ingot
+item.shinsei:zincIngot.name=Zinc Ingot
+
+# Nuggets
+item.shinsei:aluminumNugget.name=Aluminum Nugget
+item.shinsei:antimonyNugget.name=Antimony Nugget
+item.shinsei:bariumNugget.name=Barium Nugget
+item.shinsei:bismuthNugget.name=Bismuth Nugget
+item.shinsei:brassNugget.name=Brass Nugget
+item.shinsei:bronzeNugget.name=Bronze Nugget
+item.shinsei:chromiumNugget.name=Chromium Nugget
+item.shinsei:cobaltNugget.name=Cobalt Nugget
+item.shinsei:copperNugget.name=Copper Nugget
+item.shinsei:indiumNugget.name=Indium Nugget
+item.shinsei:iridiumNugget.name=Iridium Nugget
+item.shinsei:ironNugget.name=Iron Nugget
+item.shinsei:leadNugget.name=Lead Nugget
+item.shinsei:magnesiumNugget.name=Magnesium Nugget
+item.shinsei:manganeseNugget.name=Manganese Nugget
+item.shinsei:molybdenumNugget.name=Molybdenum Nugget
+item.shinsei:nickelNugget.name=Nickel Nugget
+item.shinsei:platinumNugget.name=Platinum Nugget
+item.shinsei:silverNugget.name=Silver Nugget
+item.shinsei:stainlessSteelNugget.name=Stainless Steel Nugget
+item.shinsei:steelNugget.name=Steel Nugget
+item.shinsei:tantalumNugget.name=Tantalum Nugget
+item.shinsei:tinNugget.name=Tin Nugget
+item.shinsei:titaniumNugget.name=Titanium Nugget
+item.shinsei:tungstenNugget.name=Tungsten Nugget
+item.shinsei:vanadiumNugget.name=Vanadium Nugget
+item.shinsei:zincNugget.name=Zinc Nugget
+
+# Gems/Crystals
+item.shinsei:amethystGem.name=Amethyst
+item.shinsei:apatiteCrystal.name=Apatite
+item.shinsei:aquamarineGem.name=Aquamarine
+item.shinsei:jadeGem.name=Jade
+item.shinsei:onyxGem.name=Onyx
+item.shinsei:opalGem.name=Opal
+item.shinsei:peridotGem.name=Peridot
+item.shinsei:rubyGem.name=Ruby
+item.shinsei:sapphireGem.name=Sapphire
+item.shinsei:scarletEmeraldGem.name=Scarlet Emerald
+item.shinsei:topazGem.name=Topaz
+item.shinsei:turquoiseGem.name=Turquoise
+item.shinsei:calciteCrystal.name=Calcite Crystal
+item.shinsei:fluoriteCrystal.name=Fluorite Crystal
+
+# Powders - Metals
+item.shinsei:aluminumPowder.name=Aluminum Powder
+item.shinsei:antimonyPowder.name=Antimony Powder
+item.shinsei:arsenicPowder.name=Arsenic Powder
+item.shinsei:bariumPowder.name=Barium Powder
+item.shinsei:bismuthPowder.name=Bismuth Powder
+item.shinsei:brassPowder.name=Brass Powder
+item.shinsei:bronzePowder.name=Bronze Powder
+item.shinsei:cadmiumPowder.name=Cadmium Powder
+item.shinsei:chromiumPowder.name=Chromium Powder
+item.shinsei:cinnabarPowder.name= Cinnabar Powder
+item.shinsei:cobaltPowder.name=Cobalt Powder
+item.shinsei:copperPowder.name=Copper Powder
+item.shinsei:cryolitePowder.name=Cryolite Powder
+item.shinsei:dolomitePowder.name=Dolomite Powder
+item.shinsei:goldPowder.name=Gold Powder
+item.shinsei:graphitePowder.name=Graphite Powder
+item.shinsei:indiumPowder.name=Indium Powder
+item.shinsei:iridiumPowder.name=Iridium Powder
+item.shinsei:ironPowder.name=Iron Powder
+item.shinsei:leadPowder.name=Lead Powder
+item.shinsei:magnesiumPowder.name=Magnesium Powder
+item.shinsei:manganesePowder.name=Manganese Powder
+item.shinsei:molybdenumPowder.name=Molybdenum Powder
+item.shinsei:nickelPowder.name=Nickel Powder
+item.shinsei:platinumPowder.name=Platinum Powder
+item.shinsei:silverPowder.name=Silver Powder
+item.shinsei:stainlessSteelPowder.name=Stainless Steel Powder
+item.shinsei:steelPowder.name=Steel Powder
+item.shinsei:tantalumPowder.name=Tantalum Powder
+item.shinsei:tinPowder.name=Tin Powder
+item.shinsei:titaniumPowder.name=Titanium Powder
+item.shinsei:tungstenPowder.name=Tungsten Powder
+item.shinsei:vanadiumPowder.name=Vanadium Powder
+item.shinsei:zincPowder.name=Zinc Powder
+
+# Powders - Gems/Crystals
+item.shinsei:amethystPowder.name=Amethyst Powder
+item.shinsei:amethystPowderCharged.name=Amethyst Powder (Charged)
+item.shinsei:amethystPowderInfused.name=Amethyst Powder (Infused)
+item.shinsei:apatitePowder.name=Apatite Powder
+item.shinsei:apatitePowderCharged.name=Apatite Powder (Charged)
+item.shinsei:apatitePowderInfused.name=Apatite Powder (Infused)
+item.shinsei:aquamarinePowder.name=Aquamarine Powder
+item.shinsei:aquamarinePowderCharged.name=Aquamarine Powder (Charged)
+item.shinsei:aquamarinePowderInfused.name=Aquamarine Powder (Infused)
+item.shinsei:diamondPowder.name=Diamond Powder
+item.shinsei:diamondPowderCharged.name=Diamond Powder (Charged)
+item.shinsei:diamondPowderInfused.name=Diamond Powder (Infused)
+item.shinsei:emeraldPowder.name=Emerald Powder
+item.shinsei:emeraldPowderCharged.name=Emerald Powder (Charged)
+item.shinsei:emeraldPowderInfused.name=Emerald Powder (Infused)
+item.shinsei:fluoritePowder.name=Fluorite Powder
+item.shinsei:fluoridePowderCharged.name=Fluorite Powder (Charged)
+item.shinsei:fluoridePowderInfused.name=Fluorite Powder (Infused)
+item.shinsei:jadePowder.name=Jade Powder
+item.shinsei:jadePowderCharged.name=Jade Powder (Charged)
+item.shinsei:jadePowderInfused.name=Jade Powder (Infused)
+item.shinsei:onyxPowder.name=Onyx Powder
+item.shinsei:onyxPowderCharged.name=Onyx Powder (Charged)
+item.shinsei:onyxPowderInfused.name=Onyx Powder (Infused)
+item.shinsei:opalPowder.name=Opal Powder
+item.shinsei:opalPowderCharged.name=Opal Powder (Charged)
+item.shinsei:opalPowderInfused.name=Opal Powder (Infused)
+item.shinsei:peridotPowder.name=Peridot Powder
+item.shinsei:peridotPowderCharged.name=Peridot Powder (Charged)
+item.shinsei:peridotPowderInfused.name=Peridot Powder (Infused)
+item.shinsei:rubyPowder.name=Ruby Powder
+item.shinsei:rubyPowderCharged.name=Ruby Powder (Charged)
+item.shinsei:rubyPowderInfused.name=Ruby Powder (Infused)
+item.shinsei:sapphirePowder.name=Sapphire Powder
+item.shinsei:sapphirePowderCharged.name=Sapphire Powder (Charged)
+item.shinsei:sapphirePowderInfused.name=Sapphire Powder (Infused)
+item.shinsei:scarletEmeraldPowder.name=Scarlet Emerald Powder
+item.shinsei:scarletEmeraldPowderCharged.name=Scarlet Emerald Powder (Charged)
+item.shinsei:scarletEmeraldPowderInfused.name=Scarlet Emerald Powder (Infused)
+item.shinsei:topazPowder.name=Topaz Powder
+item.shinsei:topazPowderCharged.name=Topaz Powder (Charged)
+item.shinsei:topazPowderInfused.name=Topaz Powder (Infused)
+item.shinsei:turquoisePowder.name=Turquoise Powder
+item.shinsei:turquoisePowderCharged.name=Turquoise Powder (Charged)
+item.shinsei:turquoisePowderInfused.name=Turquoise Powder (Infused)
+
+
+# Powders - Minerals
+item.shinsei:boraxPowder.name=Borax Powder
+item.shinsei:calciumPowder.name=Calcium Powder
+item.shinsei:calciumChloridePowder.name=Calcium Chloride Powder
+item.shinsei:carbonActivated.name=Activated Carbon
+item.shinsei:chalkPowder.name=Chalk
+item.shinsei:gypsumPowder.name=Gypsum Powder
+item.shinsei:saltPowder.name=Salt
+item.shinsei:siltPowder.name=Silt
+item.shinsei:sulphurPowder.name=Sulphur Powder
+item.shinsei:quicklimePowder.name=Quicklime
+
+# Powders - Misc
+item.shinsei:potashPowderCaustic.name=Caustic Potash
+item.shinsei:ferrosiliconPowder.name=Ferrosilicon Powder
+item.shinsei:potashPowder.name=Potash Powder
+item.shinsei:uraniumPowder.name=Uranium Powder
+item.shinsei:yellowcakePowder.name=Yellowcake Powder
+
+# Fuels
+item.shinsei:woodSplit.name=Split Wood
+item.shinsei:cokeNugget.name=Coke
+
+# Liquids
+tile.shinsei:slakedLime.name=Slaked Lime
+tile.shinsei:slakedLimeBlock.name=Slaked Lime
+item.shinsei:slakedLimeBucket.name=Slaked Lime
+tile.shinsei:mercury.name=Mercury
+tile.shinsei:mercuryBlock.name=Mercury
+item.shinsei:mercuryBucket.name=Mercury
+
+# Foods
+item.shinsei:curedBeef.name=Cured Beef
+item.shinsei:curedPork.name=Cured Pork
+
+# Foods - Poisoned
+item.shinsei:apple.name=Apple
+item.shinsei:beef_cooked.name=Steak
+item.shinsei:bread.name=Bread
+item.shinsei:carrot.name=Carrot
+item.shinsei:chicken_cooked.name=Cooked Chicken
+item.shinsei:cookie.name=Cookie
+item.shinsei:fish_cod_cooked.name=Cooked Fish
+item.shinsei:fish_salmon_cooked.name=Cooked Salmon
+item.shinsei:melon.name=Melon
+item.shinsei:bucket_milk.name=Milk
+item.shinsei:pumpkin_pie.name=Pumpkin Pie
+item.shinsei:porkchop_cooked.name=Cooked Porkchop
+
+# Tools
+item.shinsei:brassAxe.name=Brass Axe
+item.shinsei:brassChisel.name=Brass Chisel
+item.shinsei:brassHoe.name=Brass Hoe
+item.shinsei:brassPickaxe.name=Brass Pickaxe
+item.shinsei:brassShovel.name=Brass Shovel
+item.shinsei:brassSword.name=Brass Sword
+item.shinsei:bronzeAxe.name=Bronze Axe
+item.shinsei:bronzeChisel.name=Bronze Chisel
+item.shinsei:bronzeHoe.name=Bronze Hoe
+item.shinsei:bronzePickaxe.name=Bronze Pickaxe
+item.shinsei:bronzeShovel.name=Bronze Shovel
+item.shinsei:bronzeSword.name=Bronze Sword
+item.shinsei:copperAxe.name=Copper Axe
+item.shinsei:copperChisel.name=Copper Chisel
+item.shinsei:copperHoe.name=Copper Hoe
+item.shinsei:copperPickaxe.name=Copper Pickaxe
+item.shinsei:copperShovel.name=Copper Shovel
+item.shinsei:copperSword.name=Copper Sword
+item.shinsei:ironChisel.name=Iron Chisel
+item.shinsei:silverAxe.name=Silver Axe
+item.shinsei:silverHoe.name=Silver Hoe
+item.shinsei:silverPickaxe.name=Silver Pickaxe
+item.shinsei:silverShovel.name=Silver Shovel
+item.shinsei:silverSword.name=Silver Sword
+item.shinsei:steelAxe.name=Steel Axe
+item.shinsei:steelChisel.name=Steel Chisel
+item.shinsei:steelHoe.name=Steel Hoe
+item.shinsei:steelPickaxe.name=Steel Pickaxe
+item.shinsei:steelShovel.name=Steel Shovel
+item.shinsei:steelSword.name=Steel Sword
+item.shinsei:stainlessSteelAxe.name=Stainless Steel Axe
+item.shinsei:stainlessSteelChisel.name=Stainless Steel Chisel
+item.shinsei:stainlessSteelHoe.name=Stainless Steel Hoe
+item.shinsei:stainlessSteelPickaxe.name=Stainless Steel Pickaxe
+item.shinsei:stainlessSteelShovel.name=Stainless Steel Shovel
+item.shinsei:stainlessSteelSword.name=Stainless Steel Sword
+item.shinsei:stoneChisel.name=Stone Chisel
+item.shinsei:titaniumAxe.name=Titanium Axe
+item.shinsei:titaniumChisel.name=Titanium Chisel
+item.shinsei:titaniumHoe.name=Titanium Hoe
+item.shinsei:titaniumPickaxe.name=Titanium Pickaxe
+item.shinsei:titaniumShovel.name=Titanium Shovel
+item.shinsei:titaniumSword.name=Titanium Sword
+
+# Tool Parts
+item.shinsei:woodToolHandle.name=Wooden Tool Handle
+item.shinsei:copperPlateHeat.name=Copper Heat Plate
+item.shinsei:ironPlateHeat.name=Iron Heat Plate
+item.shinsei:copperAxeCast.name=Copper Axe Cast
+item.shinsei:copperHoeCast.name=Copper Hoe Cast
+item.shinsei:copperPickaxeCast.name=Copper Pickaxe Cast
+item.shinsei:copperShovelCast.name=Copper Shovel Cast
+item.shinsei:copperSwordCast.name=Copper Sword Cast
+
+item.shinsei:brassAxeHead.name=Brass Axe Head
+item.shinsei:brassHoeHead.name=Brass Hoe Head
+item.shinsei:brassPickaxeHead.name=Brass Pickaxe Head
+item.shinsei:brassShovelHead.name=Brass Shovel Head
+item.shinsei:brassSwordBlade.name=Brass Sword Blade
+
+item.shinsei:bronzeAxeHead.name=Bronze Axe Head
+item.shinsei:bronzeHoeHead.name=Bronze Hoe Head
+item.shinsei:bronzePickaxeHead.name=Bronze Pickaxe Head
+item.shinsei:bronzeShovelHead.name=Bronze Shovel Head
+item.shinsei:bronzeSwordBlade.name=Bronze Sword Blade
+
+item.shinsei:copperAxeHead.name=Copper Axe Head
+item.shinsei:copperHoeHead.name=Copper Hoe Head
+item.shinsei:copperPickaxeHead.name=Copper Pickaxe Head
+item.shinsei:copperShovelHead.name=Copper Shovel Head
+item.shinsei:copperSwordBlade.name=Copper Sword Blade
+
+item.shinsei:diamondAxeHead.name=Diamond Axe Head
+item.shinsei:diamondHoeHead.name=Diamond Hoe Head
+item.shinsei:diamondPickaxeHead.name=Diamond Pickaxe Head
+item.shinsei:diamondShovelHead.name=Diamond Shovel Head
+item.shinsei:diamondSwordBlade.name=Diamond Sword Head
+
+item.shinsei:goldAxeHead.name=Gold Axe Head
+item.shinsei:goldHoeHead.name=Gold Hoe Head
+item.shinsei:goldPickaxeHead.name=Gold Pickaxe Head
+item.shinsei:goldShovelHead.name=Gold Shovel Head
+item.shinsei:goldSwordBlade.name=Gold Sword Head
+
+item.shinsei:ironAxeHead.name=Iron Axe Head
+item.shinsei:ironHoeHead.name=Iron Hoe Head
+item.shinsei:ironPickaxeHead.name=Iron Pickaxe Head
+item.shinsei:ironShovelHead.name=Iron Shovel Head
+item.shinsei:ironSwordBlade.name=Iron Sword Blade
+
+item.shinsei:silverAxeHead.name=Silver Axe Head
+item.shinsei:silverHoeHead.name=Silver Hoe Head
+item.shinsei:silverPickaxeHead.name=Silver Pickaxe Head
+item.shinsei:silverShovelHead.name=Silver Shovel Head
+item.shinsei:silverSwordBlade.name=Silver Sword Blade
+
+item.shinsei:stainlessSteelAxeHead.name=Stainless Steel Axe Head
+item.shinsei:stainlessSteelHoeHead.name=Stainless Steel Hoe Head
+item.shinsei:stainlessSteelPickaxeHead.name=Stainless Steel Pickaxe Head
+item.shinsei:stainlessSteelShovelHead.name=Stainless Steel Shovel Head
+item.shinsei:stainlessSteelSwordBlade.name=Stainless Steel Sword Blade
+
+item.shinsei:steelAxeHead.name=Steel Axe Head
+item.shinsei:steelHoeHead.name=Steel Hoe Head
+item.shinsei:steelPickaxeHead.name=Steel Pickaxe Head
+item.shinsei:steelShovelHead.name=Steel Shovel Head
+item.shinsei:steelSwordBlade.name=Steel Sword Blade
+
+item.shinsei:stoneAxeHead.name=Stone Axe Head
+item.shinsei:stoneHoeHead.name=Stone Hoe Head
+item.shinsei:stonePickaxeHead.name=Stone Pickaxe Head
+item.shinsei:stoneShovelHead.name=Stone Shovel Head
+item.shinsei:stoneSwordBlade.name=Stone Sword Blade
+
+item.shinsei:titaniumAxeHead.name=Titanium Axe Head
+item.shinsei:titaniumHoeHead.name=Titanium Hoe Head
+item.shinsei:titaniumPickaxeHead.name=Titanium Pickaxe Head
+item.shinsei:titaniumShovelHead.name=Titanium Shovel Head
+item.shinsei:titaniumSwordBlade.name=Titanium Sword Blade
+
+item.shinsei:woodAxeHead.name=Wood Axe Head
+item.shinsei:woodHoeHead.name=Wood Hoe Head
+item.shinsei:woodPickaxeHead.name=Wood Pickaxe Head
+item.shinsei:woodShovelHead.name=Wood Shovel Head
+item.shinsei:woodSwordBlade.name=Wood Sword Blade
+
+# Plants
+tile.shinsei:logSakura.name=Sakura Wood
+tile.shinsei:logUme.name=Ume Wood
+tile.shinsei:logMomiji.name=Momiji Wood
+tile.shinsei:logMatsu.name=Matsu Wood
+
+tile.shinsei:leafSakura.name=Sakura Leaf
+tile.shinsei:leafUme.name=Ume Leaf
+tile.shinsei:leafMomiji.name=Momiji Leaf
+tile.shinsei:leafMatsu.name=Matsu Leaf
+
+tile.shinsei:saplingSakura.name=Sakura Sapling
+tile.shinsei:saplingUme.name=Ume Sapling
+tile.shinsei:saplingMomiji.name=Momiji Sapling
+tile.shinsei:saplingMatsu.name=Matsu Sapling

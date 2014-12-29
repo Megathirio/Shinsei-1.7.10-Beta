@@ -1,0 +1,42 @@
+package com.megathirio.shinsei.block.mineral;
+
+import com.megathirio.shinsei.block.BlockShinsei;
+import com.megathirio.shinsei.block.OreShinsei;
+import com.megathirio.shinsei.init.ShinseiItems;
+import com.megathirio.shinsei.reference.Names;
+import net.minecraft.block.material.Material;
+import net.minecraft.init.Items;
+import net.minecraft.item.Item;
+
+import java.util.Random;
+
+public class BlockGypsum extends BlockShinsei {
+
+    int intQty = 1;
+
+    public BlockGypsum(){
+        super(Material.rock);
+        this.setBlockName(Names.Materials.GYPSUM + Names.Forms.BLOCK);
+        this.setHardness(1.5F);
+        this.setResistance(2.4f);
+        this.setHarvestLevel("pickaxe", 0);
+    }
+
+    @Override
+    public Item getItemDropped(int intX, Random random, int intY){ return ShinseiItems.gypsumPowder; }
+
+    @Override
+    public int quantityDropped(Random random) {
+        int intWeight = random.nextInt(100) + 1;
+        if (intWeight <= 10){
+            intQty = 6;
+        }else if(intWeight <= 25){
+            intQty = 5;
+        }else if(intWeight <= 50){
+            intQty = 4;
+        }else {
+            intQty = 3;
+        }
+        return intQty;
+    }
+}
